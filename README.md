@@ -9,7 +9,7 @@
     "minor": ["Python", "Java"]
   },
   "likes": ["twitch", "chatbots", "audio", "d&d"],
-  "dislikes": ["sunlight", "long walks on the beach", "people that don't clear excess off the microwave"]
+  "dislikes": ["sunlight", "long walks on the beach", "people that don't clear excess time off the microwave"]
   "links": ["https://www.twitch.tv/encryptedthoughts"]
 }
 ```
