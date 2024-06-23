@@ -9,6 +9,10 @@
   },
   "likes": ["twitch", "chatbots", "audio", "d&d", "minecraft"],
   "dislikes": ["sunlight", "long walks on the beach", "people that don't clear excess time off the microwave"],
-  "links": ["https://www.twitch.tv/encryptedthoughts"]
+  "links": [
+    "https://www.twitch.tv/encryptedthoughts",
+    "https://www.youtube.com/@encryptd",
+    "https://discord.com/invite/9R9u7aUC3K",
+  ]
 }
 ```
